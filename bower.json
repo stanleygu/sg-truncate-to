@@ -1,6 +1,6 @@
 {
   "name": "sg-truncate-to",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": [
     "dist/sg-truncate-to.js"
   ],
